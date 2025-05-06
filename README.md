@@ -1,4 +1,4 @@
-# 👁️‍🗨️ Face Authentication App – digitalyuga-devops
+# 👁️‍🗨️ Face Authentication App
 
 A browser-based face authentication system using **face-api.js**, allowing users to detect faces in real-time, from images, or webcam captures. This app can serve as a foundation for authentication, attendance systems, or surveillance-related web applications.
 
@@ -34,16 +34,6 @@ A browser-based face authentication system using **face-api.js**, allowing users
 ## 🎬 Demo
 
 You can try the demo by running it locally. See [Run Locally](#run-locally) section.
-
----
-
-## 🖼️ Screenshots
-
-| Welcome Page             | Live Detection             | Gallery Detection          | Capture Detection          |
-|--------------------------|----------------------------|----------------------------|----------------------------|
-| ![welcome](screenshots/welcome.png) | ![live](screenshots/live.png) | ![gallery](screenshots/gallery.png) | ![capture](screenshots/capture.png) |
-
-> (You can add screenshots inside a `/screenshots` folder in your repo.)
 
 ---
 
